@@ -13,8 +13,9 @@
     </head>
     <body>
         <div class="glass">
-            <img src="" alt="image">
+
             <h1>i9bonsai</h1>
+            
         </div>
         <div id="V1"></div>
 
